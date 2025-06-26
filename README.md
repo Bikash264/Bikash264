@@ -10,7 +10,7 @@
 Bikash264/Bikash264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm Bikash! 👋
+# Hi, I'm Bikash! 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, open-source, and building impactful solutions. Here you'll find a showcase of my work, interests, and ongoing projects.
