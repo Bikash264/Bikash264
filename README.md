@@ -18,8 +18,6 @@ I'm passionate about technology, open-source, and building impactful solutions. 
 ---
 
 ## 🚀 About Me
-
-- 💼 **Profession:** _[Your profession or role, e.g., Software Developer, Data Scientist]_
 - 🎯 **Interests:** _[e.g., AI, Web Development, Automation, etc.]_
 - 🌱 **Currently learning:** _[Technologies or skills you're focusing on]_
 
